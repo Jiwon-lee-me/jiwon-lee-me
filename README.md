@@ -1,3 +1,4 @@
+<div align=center>
 ### Hi there 👋
 
 <!--
@@ -14,8 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div align=center>
 
 ![GodJiLee's github stats](https://github-readme-stats.vercel.app/api?username=GodJiLee&show_icons=true&hide_border=true) 
 
