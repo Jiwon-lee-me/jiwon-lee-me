@@ -14,7 +14,7 @@
 </a>
 <h2>
   <a href="https://jiwon-lee-portfolio.notion.site/jiwon-lee-portfolio/Jiwon-Lee-Data-Analyst-4e6c5783e89e4562a35f42f12b27c388">
-  📃 Portfolio
+  📃 Portfolio 📃
   </a>
 </h2>
 </div>
