@@ -12,12 +12,6 @@
 <a href="https://www.linkedin.com/in/jiwon-lee-878613171/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<h2>
-  <a href="https://jiwon-lee-portfolio.notion.site/jiwon-lee-portfolio/Jiwon-Lee-Data-Analyst-4e6c5783e89e4562a35f42f12b27c388">
-  📃 Portfolio 📃
-  </a>
-</h2>
-</div>
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
@@ -30,4 +24,10 @@
 
 </td></tr></table>  
 
+<h2>
+  <a href="https://jiwon-lee-portfolio.notion.site/jiwon-lee-portfolio/Jiwon-Lee-Data-Analyst-4e6c5783e89e4562a35f42f12b27c388">
+  📃 Portfolio 📃
+  </a>
+</h2>
+</div>
 <br/>  
